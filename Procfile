@@ -1,1 +1,1 @@
-web: gunicorn sanbox:app
+web: gunicorn sanbox.wsgi

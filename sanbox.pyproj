@@ -86,7 +86,6 @@
     <Content Include="app\templates\app\layout.html" />
     <Content Include="app\templates\app\login.html" />
     <Content Include="app\templates\app\loginpartial.html" />
-    <Content Include="sanbox\Procfile" />
   </ItemGroup>
   <ItemGroup>
     <None Include="readme.html">
