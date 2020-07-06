@@ -83,7 +83,7 @@ WSGI_APPLICATION = 'sanbox.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        #'NAME': 'django_db',
+        'NAME': 'd8eem01je60ttk',
         #'USER': 'ci_user',
         #'PASSWORD': '2020$07%05',
         #'HOST': '127.0.0.1',
