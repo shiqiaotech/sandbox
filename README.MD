@@ -41,6 +41,8 @@ https://www.postgresqltutorial.com/connect-to-postgresql-database/
 
 https://devcenter.heroku.com/articles/django-app-configuration
 
+https://docs.microsoft.com/en-us/visualstudio/python/learn-django-in-visual-studio-step-01-project-and-solution?view=vs-2019
+
 
 ## Link: 
 
