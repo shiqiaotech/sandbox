@@ -43,6 +43,7 @@ https://devcenter.heroku.com/articles/django-app-configuration
 
 https://docs.microsoft.com/en-us/visualstudio/python/learn-django-in-visual-studio-step-01-project-and-solution?view=vs-2019
 
+https://torre.me.uk/2019/03/28/using-github-as-project-management-platform/
 
 ## Link: 
 
