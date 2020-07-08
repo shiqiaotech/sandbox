@@ -18,18 +18,21 @@
 
     heroku login
 
-## 5. Acccess the app on Heroku
+## 6. Acccess the app on Heroku
 
     heroku git:remote -a ci-2020
     
-## 6. Deploy your code
+## 7. Deploy your code
 
     git push heroku master
     
-## 7. Provision Database    
+## 8. Provision Database    
 
     heroku run python manage.py migrate
 
+## 9. Agile Project Management
+
+    https://torre.me.uk/2019/03/28/using-github-as-project-management-platform/
 
 ## Reference:
 
