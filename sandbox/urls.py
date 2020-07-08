@@ -1,5 +1,5 @@
 """
-Definition of urls for sanbox.
+Definition of urls for sandbox.
 """
 
 from datetime import datetime

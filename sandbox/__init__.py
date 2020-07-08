@@ -1,3 +1,3 @@
 """
-Package for sanbox.
+Package for sandbox.
 """

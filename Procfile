@@ -1,1 +1,1 @@
-web: gunicorn sanbox.wsgi
+web: gunicorn sandbox.wsgi
