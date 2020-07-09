@@ -342,3 +342,5 @@ healthchecksdb
 
 # Virtual Environment
 web/
+/staticfiles/admin
+/staticfiles

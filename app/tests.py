@@ -4,7 +4,8 @@ when you run "manage.py test".
 """
 
 import django
-from django.test import TestCase
+from django.urls import reverse
+from django.test import TestCase, Client
 
 # TODO: Configure your database in settings.py and sync before running tests.
 
@@ -20,15 +21,15 @@ class ViewTest(TestCase):
 
     def test_home(self):
         """Tests the home page."""
-        response = self.client.get('/')
+        response = self.client.get(reverse('home'))
         self.assertContains(response, 'Home Page', 1, 200)
 
     def test_contact(self):
         """Tests the contact page."""
-        response = self.client.get('/contact')
+        response = self.client.get(reverse('contact'))
         self.assertContains(response, 'Contact', 3, 200)
 
     def test_about(self):
         """Tests the about page."""
-        response = self.client.get('/about')
+        response = self.client.get(reverse('about'))
         self.assertContains(response, 'About', 3, 200)
