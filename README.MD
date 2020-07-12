@@ -33,6 +33,15 @@
 ## 9. Agile Project Management
 
     https://torre.me.uk/2019/03/28/using-github-as-project-management-platform/
+    
+## 10. Run the Following Command to Refresh the App Before Run Testing Cases
+
+    python manage.py collectstatic
+    
+## 11. Responsive Front-end Framework
+
+    https://materializecss.com/
+
 
 ## Reference:
 
